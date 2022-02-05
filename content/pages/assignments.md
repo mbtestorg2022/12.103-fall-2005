@@ -8,11 +8,71 @@ Students are divided into groups at the start of the term. Each group focuses on
 
 The assignments are due in the lecture sessions noted in the table below.
 
-| Lec # | ASSIGNMENTS | SAMPLE STUDENT WORK |
-| --- | --- | --- |
-| 8 | Assignment 1 ([PDF]({{< baseurl >}}/resources/assignment_1)) | Indiscriminately From the Skies ([PDF]({{< baseurl >}}/resources/12_103_paper1)) |
-| 16 | Assignment 2 ([PDF]({{< baseurl >}}/resources/assignment_2)) | DDT as an Endocrine Disruptor in Human and Nonhuman Test Cases ([PDF]({{< baseurl >}}/resources/12_103_paper2)) |
-| Three Days after Lec #20 | Assignment 3 ([PDF]({{< baseurl >}}/resources/assignment_3)) | Lives on the Line: DDT, Malaria, and Infant Mortality ([PDF]({{< baseurl >}}/resources/12_103_paper3)) |
-| 23-24 | Final Presentation | DDT Presentation ([PDF]({{< baseurl >}}/resources/ddt_presentation)) (Courtesy of Emma Bassein and Cassandra Roth. Used with permission.) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Lec #
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+SAMPLE STUDENT WORK
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 1 ([PDF]({{< baseurl >}}/resources/assignment_1))
+{{< tdclose >}}
+{{< tdopen >}}
+Indiscriminately From the Skies ([PDF]({{< baseurl >}}/resources/12_103_paper1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 2 ([PDF]({{< baseurl >}}/resources/assignment_2))
+{{< tdclose >}}
+{{< tdopen >}}
+DDT as an Endocrine Disruptor in Human and Nonhuman Test Cases ([PDF]({{< baseurl >}}/resources/12_103_paper2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Three Days after Lec #20
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 3 ([PDF]({{< baseurl >}}/resources/assignment_3))
+{{< tdclose >}}
+{{< tdopen >}}
+Lives on the Line: DDT, Malaria, and Infant Mortality ([PDF]({{< baseurl >}}/resources/12_103_paper3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23-24
+{{< tdclose >}}
+{{< tdopen >}}
+Final Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+DDT Presentation ([PDF]({{< baseurl >}}/resources/ddt_presentation)) (Courtesy of Emma Bassein and Cassandra Roth. Used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Grading Rubric for Presentations ([PDF]({{< baseurl >}}/resources/present_rubric))
